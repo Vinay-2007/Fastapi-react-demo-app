@@ -1,0 +1,29 @@
+1.first installing dependencies 
+	npm install-node modules 
+	npm start- to run on the port server on PC
+
+2.Creating an  virtual Environment
+	python -m venv NAME
+	scripts folder - activate Powershell or CMD/ deactivate
+
+3.Install FastAPI uvicorn Webserver
+
+4.Creation of python files and creation of apps using APP from importing FastAPI Modules and Fastapi packages.
+	-return should be used in place of Print keyword.
+
+5.Creating functions for Endpoints 
+	-/api/Explore
+	-/google.com/Search
+
+6.HTTP Methods 
+	-get,post,put,update,delete etc.
+	-@app.get("/")
+
+7.Create a database python files
+	-import sqlalchemy modeules like create engine and session makers
+	-take db_url and import in engine
+
+8.import the session to main file 
+	-create a db connection object
+
+	 
